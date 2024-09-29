@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://achibuls.github.io/sitemap.html.gz
+Sitemap: https://achibuls.github.io/app/sitemap.html.gz
+Sitemap: https://achibuls.github.io/assets/sitemap.html.gz
+Sitemap: https://achibuls.github.io/css/sitemap.html.gz
+Sitemap: https://achibuls.github.io/data/sitemap.html.gz
+Sitemap: https://achibuls.github.io/includes/sitemap.html.gz
+Sitemap: https://achibuls.github.io/item/sitemap.html.gz
+Sitemap: https://achibuls.github.io/src/sitemap.html.gz
